@@ -48,12 +48,12 @@ const Page = () => {
                 <div className='flex gap-5 pt-10 h-[100vh]'>
                     <Image data-scroll data-scroll-speed="1.2" src="/assets/spine.jpg" height={600} width={400} className='mt-10 h-[500px] rounded-3xl object-contain' alt="Spine Image" />
                     <p className='text-xl poppins-regular pt-16'>
-                        Your Bone isn't supposed to touch your Nerve. Due to your Desk Job and Poor Posture, the bone will adjust to a new normal where it will adapt a slightly curved state as its natural position, leaving you with rounded shoulders and a terrible posture.
+                        Your Bone isn&apos;t supposed to touch your Nerve. Due to your Desk Job and Poor Posture, the bone will adjust to a new normal where it will adapt a slightly curved state as its natural position, leaving you with rounded shoulders and a terrible posture.
                         <br/>The more serious damage that is caused by this is it starts to PRESS THE SPINAL NERVE, which is causing you severe chronic pain.
                         <br/>Taking medications or applying pain sprays will only numb the nerve for some time, and then your pain will come back. Stop touching the Nerve and your pain will Vanish.
                         <br/>Hundreds of our Patients experience instant relief from the pain that they have been carrying for years precisely for this reason.
                         <br/>We treat the root cause and not the symptom. Our expertise lies in adjustments that allow your bones to come back to its natural state and give you instant relief.
-                        <br/>No medications and hence No side effects. You see, it's not magic...it's science and it works, the happiness that thousands of our patients experience is a testament to that.
+                        <br/>No medications and hence No side effects. You see, it&apos;s not magic...it&apos;s science and it works, the happiness that thousands of our patients experience is a testament to that.
                     </p>
                 </div>
                 <div className='h-[40vh] flex flex-col items-center justify-center relative'>
